@@ -34,6 +34,8 @@ The first challenge that we faced was the challenge of the nulls. Many columns h
 # Dashborad
 ![image](https://github.com/user-attachments/assets/e8b28e08-dbc2-4008-9c07-9a6f25916670)
 
+![image](https://github.com/user-attachments/assets/c5132bac-01a0-4ed7-b9e4-4d15c1187973)
+
 
 # References
 1. Capital Metro. (n.d.). Bike share., 2024, from https://www.capmetro.org/bikeshare  
