@@ -31,6 +31,10 @@ Also, adding information regarding demography such as the demographic informatio
 # Challenges
 The first challenge that we faced was the challenge of the nulls. Many columns had nulls in the weather dataset and initially, we figured this may be a very big issue but some analysis revealed even the nulls have meaning and so, we decided to keep it. The next challenge was to identify how to divide the analysis in different sections such that it gives a holistic and broad view for the stakeholders, who own this bikeshare system and since, they have to deal with city planners and deal with different areas, so how can we cover those aspects and that issue brought the Environmental and Health Insight section. Another big challenge that we encountered was how do we dive deep into the analysis for why students use the system the most, which was uncovered in the Subscriber Type Behavior section. Also, it was a major challenge to identify how to personalise the Weather Specific Trends for Austin but some analysis into the dataset revealed the different aspects which can be used. The windgust, cloudcover and humidity were identified to be the best as Austin is typically known for tornadoes and these are some of the strongest identifiers for the tornadoes.  
 
+# Dashborad
+![image](https://github.com/user-attachments/assets/e8b28e08-dbc2-4008-9c07-9a6f25916670)
+
+
 # References
 1. Capital Metro. (n.d.). Bike share., 2024, from https://www.capmetro.org/bikeshare  
 2. University of Texas at Austin. (n.d.). Bike sharing: CapMetro BikeShare. ,2024, from https://parking.utexas.edu/transportation/bikeut/bike-sharing-capmetro-bikeshare
